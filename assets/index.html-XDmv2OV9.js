@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-07fe51f6","path":"/javaBackEnd/","title":"Java Back End","lang":"zh-CN","frontmatter":{"title":"Java Back End","description":""},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"autoDesc":true}');export{a as data};
