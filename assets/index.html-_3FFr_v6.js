@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-47a4786a","path":"/ai/pytorch/","title":"Pytorch","lang":"zh-CN","frontmatter":{"title":"Pytorch","description":""},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"autoDesc":true}');export{t as data};
